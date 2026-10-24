@@ -1,0 +1,49 @@
+.all{
+    display: flex;
+    flex-wrap: wrap;
+    padding-left:75px;
+    padding-right: 75px;
+    
+    
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    width:250px;
+    box-sizing: border-box;
+    text-align: center;
+    margin:10px;
+}
+.card img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+.card h2{
+    font-size: 20px;
+    font-weight: normal;
+}
+.card h3{
+    font-size: 15px;
+    font-weight: normal;
+}
+.card1{
+    text-align: center;    
+    margin-top: 80px;
+}
+.card1 img{
+ 
+   height:500px;
+   width:800px;
+}
+.card1 h1{
+    font-size: 24px;
+    font-weight: normal;
+    
+}
+.card1 h3{
+    font-size: 18px;
+    font-weight: normal;
+    margin-left: 8%;
+    margin-right: 8%;
+}
